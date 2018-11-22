@@ -1,26 +1,6 @@
 #EXTM3U
+#EXTINF
 #EXTINF:-1 tvg-id="" tvg-name="UKe: ======= ENTERTAINMENT =======" tvg-logo="" group-title="UK.Entertainment",UKe: ======= ENTERTAINMENT =======
-http://tetra.live:21973/n11204/zndnb/20000
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Citizen Khan" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Citizen Khan
-http://tetra.live:21973/n11204/zndnb/24250
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Friends" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Friends
-http://tetra.live:21973/n11204/zndnb/24244
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Gavin and Stacey" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Gavin and Stacey
-http://tetra.live:21973/n11204/zndnb/24248
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | How I Met Your Mother" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | How I Met Your Mother
-http://tetra.live:21973/n11204/zndnb/24245
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Married With Children" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Married With Children
-http://tetra.live:21973/n11204/zndnb/24253
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Mind Your Language" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Mind Your Language
-http://tetra.live:21973/n11204/zndnb/24256
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Modern Family" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Modern Family
-http://tetra.live:21973/n11204/zndnb/24254
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Only Fools And Horses" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Only Fools And Horses
-http://tetra.live:21973/n11204/zndnb/24249
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | The Big Bang Theory" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | The Big Bang Theory
-http://tetra.live:21973/n11204/zndnb/24246
-#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | The Simpsons" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | The Simpsons
-http://tetra.live:21973/n11204/zndnb/24255
 #EXTINF:-1 tvg-id="3e.ie" tvg-name="UKe: 3E" tvg-logo="http://tetra.live/chansicons/3e.png" group-title="UK.Entertainment",UKe: 3E
 http://tetra.live:21973/n11204/zndnb/20001
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UKe: 4Seven" tvg-logo="http://tetra.live/chansicons/4sevenhd.png" group-title="UK.Entertainment",UKe: 4Seven
@@ -1224,8 +1204,28 @@ http://tetra.live:21973/n11204/zndnb/24098
 http://tetra.live:21973/n11204/zndnb/24099
 #EXTINF:-1 tvg-id="" tvg-name="US: Yes Network" tvg-logo="" group-title="USA",US: Yes Network
 http://tetra.live:21973/n11204/zndnb/24100
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV8 HD" tvg-logo="" group-title="Vietnam",VN: VTV8 HD
-http://tetra.live:21973/n11204/zndnb/24196
+#EXTINF:-1 tvg-id="" tvg-name="UKe: ======= 24/7 =======" tvg-logo="" group-title="UK.Entertainment",UKe: ======= 24/7 =======
+http://tetra.live:21973/n11204/zndnb/20000
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Citizen Khan" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Citizen Khan
+http://tetra.live:21973/n11204/zndnb/24250
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Friends" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Friends
+http://tetra.live:21973/n11204/zndnb/24244
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Gavin and Stacey" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Gavin and Stacey
+http://tetra.live:21973/n11204/zndnb/24248
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | How I Met Your Mother" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | How I Met Your Mother
+http://tetra.live:21973/n11204/zndnb/24245
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Married With Children" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Married With Children
+http://tetra.live:21973/n11204/zndnb/24253
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Mind Your Language" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Mind Your Language
+http://tetra.live:21973/n11204/zndnb/24256
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Modern Family" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Modern Family
+http://tetra.live:21973/n11204/zndnb/24254
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | Only Fools And Horses" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | Only Fools And Horses
+http://tetra.live:21973/n11204/zndnb/24249
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | The Big Bang Theory" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | The Big Bang Theory
+http://tetra.live:21973/n11204/zndnb/24246
+#EXTINF:-1 tvg-id="" tvg-name="UKe: 24/7 | The Simpsons" tvg-logo="" group-title="UK.Entertainment",UKe: 24/7 | The Simpsons
+http://tetra.live:21973/n11204/zndnb/24255
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Blacked" tvg-logo="" group-title="XXX Adult",XXX: Blacked
 http://tetra.live:21973/n11204/zndnb/24197
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers Europe" tvg-logo="" group-title="XXX Adult",XXX: Brazzers Europe
