@@ -128,6 +128,7 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/868.ts
 #EXTINF:-1,PREMIER SPORTS
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2661.ts
 #EXTINF:1,=== films===
+
 ##EXTINF:-1,SKY CINEMA DRAMA
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/779.ts
 #EXTINF:-1,SKY CINEMA ACTION
@@ -141,7 +142,7 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/821.ts
 #EXTINF:-1,SKY CINEMA GREATS
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/820.ts
 #EXTINF:-1,SKY CINEMA PREMIERE
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/819.ts
+http://tetra.live:21973/n11204/zndnb/20104.ts
 #EXTINF:-1,SKY CINEMA SCI FI
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/824.ts
 #EXTINF:-1,SKY CINEMA SELECT
