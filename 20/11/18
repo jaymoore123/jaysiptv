@@ -178,3 +178,41 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/795.ts
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/798.ts
 #EXTINF:-1,VH1 CLASSIC
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/799.ts
+#EXTINF:0,=== Bein sports ===
+http://
+#EXTINF:-1,Bein Sports Hd 1
+http://formen1.com:8080/live/ada104/1414ss/135.ts
+#EXTINF:-1,Bein Sports 1 Hd 265.hvec
+http://formen1.com:8080/live/ada104/1414ss/2785.ts
+#EXTINF:-1,Bein Sports Sd 1
+http://formen1.com:8080/live/ada104/1414ss/8568.ts
+#EXTINF:-1,Bein Sports Hd 1 Mobile
+http://formen1.com:8080/live/ada104/1414ss/8238.ts
+#EXTINF:-1,Bein Sports Hd 1080i
+http://formen1.com:8080/live/ada104/1414ss/8570.ts
+#EXTINF:-1,Bein Sports 1 4k & Bein Iz
+http://formen1.com:8080/live/ada104/1414ss/8776.ts
+#EXTINF:-1,Bein Sports Sd 1 ( 1024x576 )
+http://formen1.com:8080/live/ada104/1414ss/8569.ts
+#EXTINF:-1,Bein Sports Hd 2
+http://formen1.com:8080/live/ada104/1414ss/134.ts
+#EXTINF:-1,Bein Sports Sd 2
+http://formen1.com:8080/live/ada104/1414ss/8983.ts
+#EXTINF:-1,Bein Sports Hd 3
+http://formen1.com:8080/live/ada104/1414ss/133.ts
+#EXTINF:-1,Bein Sports Sd 3
+http://formen1.com:8080/live/ada104/1414ss/8984.ts
+#EXTINF:-1,Bein Sports Hd 4
+http://formen1.com:8080/live/ada104/1414ss/132.ts
+#EXTINF:-1,Bein Sports Sd 4
+http://formen1.com:8080/live/ada104/1414ss/16197.ts
+#EXTINF:-1,Bein Sports Max 1 Hd
+http://formen1.com:8080/live/ada104/1414ss/8153.ts
+#EXTINF:-1,Bein Sports Max 1 Sd
+http://formen1.com:8080/live/ada104/1414ss/16198.ts
+#EXTINF:-1,Bein Sports Max 2 Hd
+http://formen1.com:8080/live/ada104/1414ss/8154.ts
+#EXTINF:-1,Bein Sports Max 2 Sd
+http://formen1.com:8080/live/ada104/1414ss/16199.ts
+#EXTINF:-1,Bein Sports Haber HD
+http://formen1.com:8080/live/ada104/1414ss/16215.ts
