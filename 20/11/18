@@ -534,7 +534,7 @@ http://srv.mtvs.me:8880/live/fabio20190/saopaulo18/23428.ts
 http://srv.mtvs.me:8880/live/fabio20190/saopaulo18/23427.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA I WWE PPV" tvg-logo="" group-title="CANAIS: U.S.A",USA I WWE PPV
 http://srv.mtvs.me:8880/live/fabio20190/saopaulo18/23426.ts
-#EXTINF:1,=== test===
+#EXTINF:0,=== test===
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC2.uk.png" tvg-chno="121" channel-id="121",BBC Two HD
