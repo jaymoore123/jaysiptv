@@ -1,36 +1,26 @@
 #EXTM3U
-#EXTINF:1,=== uk ===
+#EXTINF:1,=== live tv ===
 http://
-#EXTINF:-1,5USA
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/809.ts
-#EXTINF:-1,ALIBI
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2691.ts
-#EXTINF:-1,AMC from BT
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5827.ts
-#EXTINF:-1,AT THE RACES
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2690.ts
 #EXTINF:-1,BBC ONE
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2689.ts
 #EXTINF:-1,BBC TWO
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2688.ts
+#EXTINF:-1,ITV1
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2673.ts
+#EXTINF:-1,CHANNEL 4
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/811.ts
+#EXTINF:-1,CHANNEL 5
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/810.ts
+#EXTINF:-1,SKY 1
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5179.ts
+#EXTINF:-1,SKY 2
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5181.ts
+#EXTINF:-1,SKY ATLANTIC HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/826.ts
 #EXTINF:-1,BBC THREE
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2687.ts
 #EXTINF:-1,BBC FOUR
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/808.ts
-#EXTINF:-1,BOOMERANG UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/3263.ts
-#EXTINF:-1,BOXNATION
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/901.ts
-#EXTINF:-1,BT SPORT 1
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/863.ts
-#EXTINF:-1,BT SPORT 2
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/862.ts
-#EXTINF:-1,BT SPORT 3
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/864.ts
-#EXTINF:-1,BT SPORT ESPN
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1269.ts
-#EXTINF:-1,CARTOON NETWORK UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2684.ts
 #EXTINF:-1,CBS ACTION
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2686.ts
 #EXTINF:-1,CBS DRAMA
@@ -39,34 +29,30 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1280.ts
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2685.ts
 #EXTINF:-1,COMEDY CENTRAL
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1254.ts
-#EXTINF:-1,CHANNEL 4
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/811.ts
-#EXTINF:-1,CHANNEL 5
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/810.ts
-#EXTINF:-1,CHELSEA TV
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2682.ts
+#EXTINF:-1,5USA
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/809.ts
+#EXTINF:-1,ALIBI
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2691.ts
+#EXTINF:-1,AMC from BT
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5827.ts
+#EXTINF:-1,BOOMERANG UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/3263.ts
+#EXTINF:-1,CBS ACTION
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2686.ts
+#EXTINF:-1,CBS DRAMA
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1280.ts
+#EXTINF:-1,CBS REALITY
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2685.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1254.ts
 #EXTINF:-1,DAVE
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2681.ts
-#EXTINF:-1,DISCOVERY UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2680.ts
-#EXTINF:-1,DISCOVERY HISTORY
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2679.ts
-#EXTINF:-1,DISCOVERY SCIENCE UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2678.ts
-#EXTINF:-1,DISCOVERY TURBO
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2677.ts
 #EXTINF:-1,E4
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1266.ts
 #EXTINF:-1,E! ENTERTAINMENT UK
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2676.ts
 #EXTINF:-1,EDEN
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2675.ts
-#EXTINF:-1,FILM4
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5178.ts
-#EXTINF:-1,FOX
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1259.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2668.ts
 #EXTINF:-1,ITV1
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2673.ts
 #EXTINF:-1,ITV2
@@ -75,68 +61,56 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2672.ts
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2671.ts
 #EXTINF:-1,ITV4
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2670.ts
-#EXTINF:-1,LFC TV
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2667.ts
-#EXTINF:-1,SKY CINEMA DRAMA
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/779.ts
-#EXTINF:-1,MTV UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/792.ts
-#EXTINF:-1,MTV BASE HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2646.ts
-#EXTINF:-1,MTV CLASSIC HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/796.ts
-#EXTINF:-1,MTV DANCE HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2204.ts
-#EXTINF:-1,MTV HITS HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/794.ts
-#EXTINF:-1,MTV MUSIC HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2192.ts
-#EXTINF:-1,MTV ROCKS
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/795.ts
-#EXTINF:-1,MUTV
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5667.ts
-#EXTINF:-1,NATIONAL GEO
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1267.ts
-#EXTINF:-1,NAT GEO WILD UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2665.ts
-#EXTINF:-1,NICK UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2664.ts
-#EXTINF:-1,NICK JR UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2663.ts
-#EXTINF:-1,PREMIER SPORTS
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2661.ts
-#EXTINF:-1,RTE 1
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2659.ts
-#EXTINF:-1,RTE 2
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2658.ts
-#EXTINF:-1,RTE JR HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/3421.ts
-#EXTINF:-1,SKY 1
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5179.ts
-#EXTINF:-1,SKY 2
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5181.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/826.ts
-#EXTINF:-1,SKY CINEMA ACTION
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/825.ts
-#EXTINF:-1,SKY CINEMA COMEDY
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/822.ts
-#EXTINF:-1,SKY CINEMA DISNEY
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/813.ts
-#EXTINF:-1,SKY CINEMA FAMILY
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/821.ts
-#EXTINF:-1,SKY CINEMA GREATS
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/820.ts
-#EXTINF:-1,SKY CINEMA PREMIERE
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/819.ts
-#EXTINF:-1,SKY CINEMA SCI FI
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/824.ts
-#EXTINF:-1,SKY CINEMA SELECT
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/823.ts
+#EXTINF:-1,5 SPIKE
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5829.ts
+#EXTINF:-1,SYFY UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1251.ts
+#EXTINF:-1,TCM UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2695.ts
+#EXTINF:-1,TLC UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2653.ts
+#EXTINF:-1,TRAVEL CHANNEL _UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2652.ts
+#EXTINF:-1,UNIVERSAL
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5828.ts
 #EXTINF:-1,SKY LIVING
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5180.ts
 #EXTINF:-1,SKY NEWS
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/3519.ts
+#EXTINF:1,=== documentaries===
+http://
+#EXTINF:-1,DISCOVERY UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2680.ts
+#EXTINF:-1,DISCOVERY HISTORY
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2679.ts
+#EXTINF:-1,DISCOVERY SCIENCE UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2678.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2677.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2668.ts
+#EXTINF:-1,NATIONAL GEO
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1267.ts
+#EXTINF:-1,NAT GEO WILD UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2665.ts
+#EXTINF:0,=== live sport ===
+http://
+#EXTINF:-1,BOXNATION
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/901.ts
+#EXTINF:-1,AT THE RACES
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2690.ts
+#EXTINF:-1,BT SPORT 1
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/863.ts
+#EXTINF:-1,BT SPORT 2
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/862.ts
+#EXTINF:-1,BT SPORT 3
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/864.ts
+#EXTINF:-1,BT SPORT ESPN
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1269.ts
+#EXTINF:-1,CHELSEA TV
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2682.ts
+#EXTINF:-1,MUTV
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5667.ts
 #EXTINF:-1,SKY SPORTS ACTION
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/870.ts
 #EXTINF:-1,SKY SPORTS ARENA
@@ -153,23 +127,54 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/869.ts
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/872.ts
 #EXTINF:-1,SKY SPORTS PREMIER LEAGUE
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/868.ts
+#EXTINF:-1,PREMIER SPORTS
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2661.ts
+#EXTINF:1,=== films===
+##EXTINF:-1,SKY CINEMA DRAMA
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/779.ts
+#EXTINF:-1,SKY CINEMA ACTION
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/825.ts
+#EXTINF:-1,SKY CINEMA COMEDY
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/822.ts
+#EXTINF:-1,SKY CINEMA DISNEY
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/813.ts
+#EXTINF:-1,SKY CINEMA FAMILY
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/821.ts
+#EXTINF:-1,SKY CINEMA GREATS
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/820.ts
+#EXTINF:-1,SKY CINEMA PREMIERE
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/819.ts
+#EXTINF:-1,SKY CINEMA SCI FI
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/824.ts
+#EXTINF:-1,SKY CINEMA SELECT
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/823.ts
 #EXTINF:-1,SONY MOVIES
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2468.ts
-#EXTINF:-1,5 SPIKE
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5829.ts
-#EXTINF:-1,SYFY UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1251.ts
-#EXTINF:-1,TCM UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2695.ts
-#EXTINF:-1,TLC UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2653.ts
-#EXTINF:-1,TRAVEL CHANNEL _UK
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2652.ts
-#EXTINF:-1,UNIVERSAL
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5828.ts
+#EXTINF:-1,FILM4
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5178.ts
+#EXTINF:1,=== kids===
+#EXTINF:-1,CARTOON NETWORK UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2684.ts
+#EXTINF:-1,NICK UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2664.ts
+#EXTINF:-1,NICK JR UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2663.ts
+#EXTINF:1,=== music===
+#EXTINF:-1,MTV UK
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/792.ts
+#EXTINF:-1,MTV BASE HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2646.ts
+#EXTINF:-1,MTV CLASSIC HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/796.ts
+#EXTINF:-1,MTV DANCE HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2204.ts
+#EXTINF:-1,MTV HITS HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/794.ts
+#EXTINF:-1,MTV MUSIC HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2192.ts
+#EXTINF:-1,MTV ROCKS
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/795.ts
 #EXTINF:-1,VH1 UK
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/798.ts
 #EXTINF:-1,VH1 CLASSIC
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/799.ts
-
-
