@@ -534,3 +534,74 @@ http://srv.mtvs.me:8880/live/fabio20190/saopaulo18/23428.ts
 http://srv.mtvs.me:8880/live/fabio20190/saopaulo18/23427.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA I WWE PPV" tvg-logo="" group-title="CANAIS: U.S.A",USA I WWE PPV
 http://srv.mtvs.me:8880/live/fabio20190/saopaulo18/23426.ts
+#EXTINF:1,=== test===
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
+rtp://239.186.68.43:10000
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC2.uk.png" tvg-chno="121" channel-id="121",BBC Two HD
+rtp://239.186.68.41:10000
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="http://static.iptv-epg.com/uk/CBBC.uk.png" tvg-chno="123" channel-id="123",BBC CBBC HD
+rtp://239.186.68.153:10000
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC4.uk.png" tvg-chno="125" channel-id="125",BBC Four HD / BBC CBeebies HD
+rtp://239.186.68.158:10000
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="http://static.iptv-epg.com/uk/CBeebies.uk.png" tvg-chno="127" channel-id="127",BBC CBeebies HD / BBC Four HD
+rtp://239.186.68.152:10000
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News UK" tvg-logo="http://static.iptv-epg.com/uk/BBCNews.uk.png" tvg-chno="128" channel-id="128",BBC News HD
+rtp://239.186.68.160:10000
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News UK" tvg-logo="http://static.iptv-epg.com/uk/BBCWorldNews.uk.png" tvg-chno="130" channel-id="130",BBC World News HD
+rtp://239.186.68.214:10000
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="http://static.iptv-epg.com/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
+rtp://239.186.64.177:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="132" channel-id="132",BOX
+rtp://239.186.66.142:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="133" channel-id="133",BOX upfront (ex Heat)
+rtp://239.186.66.124:10000
+#EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" tvg-chno="136" channel-id="136",CGTN HD (eng)
+rtp://239.186.70.90:10000
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel4.uk.png" tvg-chno="138" channel-id="138",Channel4 HD
+rtp://239.186.68.40:10000
+#EXTINF:-1 tvg-id="ChartShow.uk" tvg-name="Chart Show UK" tvg-logo="http://static.iptv-epg.com/uk/ChartShow.uk.png" tvg-chno="139" channel-id="139",Chart Show TV
+rtp://239.186.66.115:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="140" channel-id="140",chilled
+rtp://239.186.66.133:10000
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="http://static.iptv-epg.com/uk/ClublandTV.uk.png" tvg-chno="141" channel-id="141",Clubland TV
+rtp://239.186.66.116:10000
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.iptv-epg.com/uk/CNBC.uk.png" tvg-chno="142" channel-id="142",CNBC EU
+rtp://239.186.64.167:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="143" channel-id="143",CNN Money Switzerland HD
+rtp://239.186.70.118:10000
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="http://static.iptv-epg.com/uk/CNN.uk.png" tvg-chno="145" channel-id="145",CNN International HD
+rtp://239.186.70.23:10000
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama UK" tvg-logo="http://static.iptv-epg.com/uk/Drama.uk.png" tvg-chno="146" channel-id="146",DRAMA
+rtp://239.186.66.140:10000
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DEUTSCHE WELLE En
+rtp://239.186.64.135:10000
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="http://static.iptv-epg.com/uk/E4.uk.png" tvg-chno="147" channel-id="147",E4
+rtp://239.186.64.53:10000
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="http://static.iptv-epg.com/uk/EuroNews.uk.png" tvg-chno="149" channel-id="149",euronews E HD
+rtp://239.186.70.105:10000
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-name="Fashion TV FR" tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-chno="151" channel-id="151",Fashion TV HD
+rtp://233.32.39.198:1234
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="http://static.iptv-epg.com/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
+rtp://239.186.64.172:10000
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="5 UK" tvg-logo="http://static.iptv-epg.com/uk/channel5.uk.png" tvg-chno="" channel-id="",Five HD
+rtp://239.186.70.151:10000
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",Food Network E
+rtp://239.186.66.58:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="158" channel-id="158",i24 News E HD
+rtp://239.186.68.140:10000
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV UK" tvg-logo="http://static.iptv-epg.com/uk/ITV1Anglia.uk.png" tvg-chno="160" channel-id="160",itv HD
+rtp://239.186.68.42:10000
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2
+rtp://239.186.64.170:10000
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3
+rtp://239.186.64.180:10000
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
+rtp://239.186.64.171:10000
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="http://static.iptv-epg.com/uk/ITVBe.uk.png" tvg-chno="164" channel-id="164",itv Be.
+rtp://239.186.74.14:10000
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="http://static.iptv-epg.com/uk/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
+rtp://239.186.64.105:10000
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="http://static.iptv-epg.com/uk/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss TV
+rtp://239.186.66.128:10000
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
+rtp://239.186.64.185:10000
