@@ -177,4 +177,29 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/795.ts
 #EXTINF:-1,VH1 UK
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/798.ts
 #EXTINF:-1,VH1 CLASSIC
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/799.ts
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/799.ts 
+#EXTINF:1,=== bein sport===
+#EXTINF:-1 tvg-ID="HD1" tvg-name="bein_Sports_SD1" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",bein_Sports_SD1
+http://185.71.66.108:8000/mk8800/mk8800/1003
+#EXTINF:-1 tvg-ID="HD2" tvg-name="bein_Sports_SD2" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",bein_Sports_SD2
+http://185.71.66.108:8000/mk8800/mk8800/1004
+#EXTINF:-1 tvg-ID="HD3" tvg-name="bein_Sports_SD3" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",bein_Sports_SD3
+http://185.71.66.108:8000/mk8800/mk8800/1005
+#EXTINF:-1 tvg-ID="HD4" tvg-name="bein_Sports_SD4" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",bein_Sports_SD4
+http://185.71.66.108:8000/mk8800/mk8800/1006
+#EXTINF:-1 tvg-ID="HD5" tvg-name="bein_Sports_SD5" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",bein_Sports_SD5
+http://185.71.66.108:8000/mk8800/mk8800/1007
+#EXTINF:-1 tvg-ID="HD6" tvg-name="bein_Sports_SD6" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",bein_Sports_SD6
+http://185.71.66.108:8000/mk8800/mk8800/1008
+#EXTINF:-1 tvg-ID="HD7" tvg-name="bein_Sports_SD7" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",bein_Sports_SD7
+http://185.71.66.108:8000/mk8800/mk8800/1009
+#EXTINF:-1 tvg-ID="HD8" tvg-name="bein_Sports_SD8" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",bein_Sports_SD8
+http://185.71.66.108:8000/mk8800/mk8800/1010
+#EXTINF:-1 tvg-ID="HD9" tvg-name="bein_Sports_SD9" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",bein_Sports_SD9
+http://185.71.66.108:8000/mk8800/mk8800/1011
+#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="bein_Sports_SD10" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",bein_Sports_SD10
+http://185.71.66.108:8000/mk8800/mk8800/1012
+#EXTINF:-1 tvg-ID="SportsHD11" tvg-name="bein_Sports_SD11" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",bein_Sports_SD11
+http://185.71.66.108:8000/mk8800/mk8800/3028
+#EXTINF:-1 tvg-ID="SportsHD12" tvg-name="bein_Sports_SD12" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",bein_Sports_SD12
+http://185.71.66.108:8000/mk8800/mk8800/3029
