@@ -203,3 +203,34 @@ http://185.71.66.108:8000/mk8800/mk8800/1012
 http://185.71.66.108:8000/mk8800/mk8800/3028
 #EXTINF:-1 tvg-ID="SportsHD12" tvg-name="bein_Sports_SD12" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",bein_Sports_SD12
 http://185.71.66.108:8000/mk8800/mk8800/3029
+#EXTINF:1,=== test===
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES THRILLER HD
+http://gorilladick4.us:2086/live/3404/3404/1023.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES SELECT HD
+http://gorilladick4.us:2086/live/3404/3404/1022.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES SCI-FI/HORROR HD
+http://gorilladick4.us:2086/live/3404/3404/1021.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES PREMIER HD
+http://gorilladick4.us:2086/live/3404/3404/1020.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES HITS HD
+http://gorilladick4.us:2086/live/3404/3404/1019.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES GREATS HD
+http://gorilladick4.us:2086/live/3404/3404/1018.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES FAMILY HD
+http://gorilladick4.us:2086/live/3404/3404/1017.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES DRAMA & ROMANCE HD
+http://gorilladick4.us:2086/live/3404/3404/1016.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES COMEDY HD
+http://gorilladick4.us:2086/live/3404/3404/1014.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES ACTION HD
+http://gorilladick4.us:2086/live/3404/3404/1013.ts
