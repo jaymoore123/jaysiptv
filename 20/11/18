@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="SP: =======SPORTS =======" tvg-logo="" group-title="USA",US: ======= SPORTS =======
+#EXTINF:-1 tvg-id="" tvg-name="SP: =======SPORTS =======" tvg-logo="" group-title="SPORTS",US: ======= SPORTS =======
 #EXTM3U
 #EXTINF:-1,Sky Sports Action HD*
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/949
@@ -175,7 +175,7 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/96
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/125
 #EXTINF:-1,USA: TNT HD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/111
-#EXTINF:-1 tvg-id="" tvg-name="MO: ======= MOVIES =======" tvg-logo="" group-title="USA",US: ======= MOVIES =======
+#EXTINF:-1 tvg-id="" tvg-name="MO: ======= MOVIES =======" tvg-logo="" group-title="MOVIES",US: ======= MOVIES =======
 #EXTINF:-1,Sky Cinema Action & Adventure FHD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/21
 #EXTINF:-1,Sky Cinema Comedy FHD
@@ -218,7 +218,7 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/2
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/3
 #EXTINF:-1,Sky Sports Premier League HD Ireland
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1
-#EXTINF:-1 tvg-id="" tvg-name="LI: ======= LIVE TV =======" tvg-logo="" group-title="USA",US: ======= LIVE TV =======
+#EXTINF:-1 tvg-id="" tvg-name="LI: ======= LIVE TV =======" tvg-logo="" group-title="LIVE TV",US: ======= LIVE TV =======
 #EXTINF:-1,Alibi
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/23
 #EXTINF:-1,BBC Four
@@ -793,7 +793,7 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1057
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1051
 #EXTINF:-1,Zoom UK
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1067
-#EXTINF:-1 tvg-id="" tvg-name="VO: ======= VOD MOVIES =======" tvg-logo="" group-title="USA",US: ======= VOD MOVIES =======
+#EXTINF:-1 tvg-id="" tvg-name="VO: ======= VOD MOVIES =======" tvg-logo="" group-title="VOD",US: ======= VOD MOVIES =======
 #EXTINF:-1,12 Rounds
 http://gorillaiptv.online:25461/movie/jaymoore123@hotmail.co.uk/lauren34/1152.mkv
 #EXTINF:-1,A-X-L
