@@ -1,5 +1,5 @@
+#EXTINF:-1 tvg-id="" tvg-name="US: =======SPORTS =======" tvg-logo="" group-title="USA",US: ======= SPORTS =======
 #EXTM3U
-#Sky Sport#
 #EXTINF:-1,Sky Sports Action HD*
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/949
 #EXTINF:-1,Sky Sports Action*
@@ -38,7 +38,9 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/944
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/947
 #EXTINF:-1,Sky Sports The Open*
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/946
-#USA#
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ======= USA =======" tvg-logo="" group-title="USA",US: ======= USA =======
+
 #EXTINF:-1,USA: 5 Star Max
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/58
 #EXTINF:-1,USA: A&E
@@ -173,7 +175,7 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/96
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/125
 #EXTINF:-1,USA: TNT HD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/111
-##
+#EXTINF:-1 tvg-id="" tvg-name="US: ======= MOVIES =======" tvg-logo="" group-title="USA",US: ======= MOVIES =======
 #EXTINF:-1,Sky Cinema Action & Adventure FHD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/21
 #EXTINF:-1,Sky Cinema Comedy FHD
@@ -194,7 +196,6 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/14
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/13
 #EXTINF:-1,Sky Cinema Sci-Fi & Horror FHD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/12
-#uk sport#
 #EXTINF:-1,Sky Sports Action HD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/11
 #EXTINF:-1,Sky Sports Arena HD
@@ -217,7 +218,7 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/2
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/3
 #EXTINF:-1,Sky Sports Premier League HD Ireland
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1
-uk tv#
+#EXTINF:-1 tvg-id="" tvg-name="US: ======= LIVE TV =======" tvg-logo="" group-title="USA",US: ======= LIVE TV =======
 #EXTINF:-1,Alibi
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/23
 #EXTINF:-1,BBC Four
@@ -621,7 +622,6 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1050
 #EXTINF:-1,BBC News HD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/979
 #EXTINF:-1,BBC News SD
-#bt sports#
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/978
 #EXTINF:-1,BoxNation
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/987
@@ -793,7 +793,7 @@ http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1057
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1051
 #EXTINF:-1,Zoom UK
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/1067
-#vod#
+#EXTINF:-1 tvg-id="" tvg-name="US: ======= VOD MOVIES =======" tvg-logo="" group-title="USA",US: ======= VOD MOVIES =======
 #EXTINF:-1,12 Rounds
 http://gorillaiptv.online:25461/movie/jaymoore123@hotmail.co.uk/lauren34/1152.mkv
 #EXTINF:-1,A-X-L
@@ -940,6 +940,10 @@ http://gorillaiptv.online:25461/movie/jaymoore123@hotmail.co.uk/lauren34/1272.mp
 http://gorillaiptv.online:25461/movie/jaymoore123@hotmail.co.uk/lauren34/1269.mp4
 #EXTINF:-1,The Man with the Iron Fists 2
 http://gorillaiptv.online:25461/movie/jaymoore123@hotmail.co.uk/lauren34/1264.mp4
+#EXTINF:-1,Johnny English Strikes Again
+http://gorillaiptv.online:25461/movie/jaymoore123@hotmail.co.uk/lauren34/1356.mkv
+#EXTINF:-1,Night School
+http://gorillaiptv.online:25461/movie/jaymoore123@hotmail.co.uk/lauren34/1355.mp4
 #EXTINF:-1,IND: Star Bharat HD
 http://gorillaiptv.online:25461/jaymoore123@hotmail.co.uk/lauren34/139
 #EXTINF:-1,IND: Star Gold HD
